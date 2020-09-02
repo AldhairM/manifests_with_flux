@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   labels:
     name: sample
-  name: lamanifest
+  name: sample
